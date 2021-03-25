@@ -5,9 +5,15 @@ This is forth line.
 This is fifth line.
 This is sixth line.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 This is deventh line.
 This is eighth line.
 This is ninth line.
+=======
+This is tenth line.
+This is eleventh line.
+This is twelveth line.
+>>>>>>> Stashed changes
 =======
 This is tenth line.
 This is eleventh line.
